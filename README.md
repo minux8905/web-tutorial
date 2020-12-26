@@ -1,1 +1,1 @@
-web-tutorial
+생활코딩 WEB 따라하기
